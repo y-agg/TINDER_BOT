@@ -8,8 +8,8 @@ Tinder_bot use Selenium to automate process communicating with Tinder web UI.
 It then uses Seq2Seq LSTMs for messaging (chatbot) with the matches. 
 
 The chatbot LSTM used is inspired by:  [seq2seq-chatbot](https://github.com/tensorlayer/seq2seq-chatbot) 
-It contain two process
 
+It contain two process:
 1. Login(): authentication for login with SMS provided.
 2. Swipe(): Swipe right (max 5 at time ).
 3. ChatBot(interface()): It uses the LSTM mentioned above to chat with matched users.
@@ -36,7 +36,7 @@ python -m pip install -r requirements.txt
 python pytinder.py
 ```
 
-###IMPORTANT 
+### IMPORTANT 
 IF MODEL ARE ALready trained skip this part
 
 You have to train model before running the [pytinder.py](https://github.com/y-agg/TINDER_BOT/blob/master/pytinder.py) 
@@ -48,6 +48,3 @@ for that
 python tinder_bot.py
 #For training 
 ```
-
-
-
