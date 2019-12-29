@@ -37,7 +37,7 @@ python pytinder.py
 ```
 
 ### IMPORTANT 
-IF MODEL ARE ALready trained skip this part
+If Model are Already trained skip this part
 
 You have to train model before running the [pytinder.py](https://github.com/y-agg/TINDER_BOT/blob/master/pytinder.py) 
 for that 
