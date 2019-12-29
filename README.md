@@ -1,12 +1,10 @@
 # TINDER BOT 
 
-### About 
-<!DOCTYPE html><html><body><h1 style="color:RED;">Tinder_bot</h1></body></html>
+### About Tinder_bot
 
-<!DOCTYPE html><html><body><h1 style="color:RED;">Tinder_bot</h1></body></html>is kind of project that aims to automate the Tinder activties like login, swipping and messaging 
+Tinder_bot is kind of project that aims to automate the Tinder activties like login, swipping and messaging 
 
-
-<!DOCTYPE html><html><body><h1 style="color:RED;">Tinder_bot</h1></body></html>use Selenium to automate process communicating with Tinder web UI. 
+Tinder_bot use Selenium to automate process communicating with Tinder web UI. 
 It then uses Seq2Seq LSTMs for messaging (chatbot) with the matches. 
 
 The chatbot LSTM used is inspired by:  [seq2seq-chatbot](https://github.com/tensorlayer/seq2seq-chatbot) 
@@ -50,3 +48,6 @@ for that
 python tinder_bot.py
 #For training 
 ```
+
+
+
