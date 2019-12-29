@@ -2,10 +2,10 @@
 
 ### About Tinder_bot
 
-Tinder_bot is kind of project that aims to automate the Tinder activties like login, swipping and messaging 
+Tinder_bot is kind of project that aims to automate of the Tinder activities like login, swiping and messaging
 
 Tinder_bot use Selenium to automate process communicating with Tinder web UI. 
-It then uses Seq2Seq LSTMs for messaging (chatbot) with the matches. 
+It then use Seq2Seq LSTMs for messaging (chatbot) with the matches. 
 
 The chatbot LSTM used is inspired by:  [seq2seq-chatbot](https://github.com/tensorlayer/seq2seq-chatbot) 
 
