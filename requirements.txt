@@ -90,6 +90,6 @@ termcolor==1.1.0
 torchtext==0.2.1
 tqdm==4.41.0
 uritemplate==3.0.1
-urllib3==1.24.3
+urllib3==1.26.5
 Werkzeug==0.16.0
 wrapt==1.11.1
