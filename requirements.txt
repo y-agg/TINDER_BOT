@@ -36,7 +36,7 @@ imageio==2.5.0
 itertools-s==0.1
 itsdangerous==1.1.0
 Jinja2==2.10.3
-joblib==0.14.1
+joblib==1.2.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kfac==0.2.0
